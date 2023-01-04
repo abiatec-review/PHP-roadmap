@@ -1,3 +1,3 @@
-тут про memcached можно глянуть
+Почитать про memcached можно тут:
 
 https://habr.com/ru/post/108274/
