@@ -1,8 +1,6 @@
-
-В общем, про основы пыхи можно почитать на метаните, если на винде, то проще ставить openServer, а не отдельно php, mySql, Apache,
- качать его лучше с торрента, на официальном сайте скорость низкая, если на линуксе, то sudo apt install apache2 php libapache2-mod-php php-mysql mysql-server -y
- ну или nginx можно заюзать вместо apache2
+Про основы PHP можно почитать на метаните.
+Если Windows, то проще ставить openServer, а не отдельно php, mySql, Apache. Качать его лучше с торрента (на официальном сайте скорость низкая).
+Если Linux, то sudo apt install apache2 php libapache2-mod-php php-mysql mysql-server -y
+Вместо apache2 можно использовать nginx 
 
 https://metanit.com/php/tutorial/
-
-
