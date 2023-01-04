@@ -1,0 +1,3 @@
+тут про memcached можно глянуть
+
+https://habr.com/ru/post/108274/

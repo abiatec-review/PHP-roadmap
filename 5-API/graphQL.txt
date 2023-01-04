@@ -1,0 +1,4 @@
+Тут про GraphQL можно глянуть
+
+https://habr.com/ru/post/328122/
+3 части
