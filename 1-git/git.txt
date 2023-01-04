@@ -2,6 +2,6 @@
 
 https://selectel.ru/blog/tutorials/git-setup-and-common-commands/
 
-а тут есть прям подробнный курс по гиту, если интересно.
+Бонус: очень подробный курс по гиту, если интересно.
 
 https://githowto.com/ru
