@@ -1,8 +1,7 @@
-Во тут во про докер написано
+Про докер обязательно почитать вот тут:
 
 https://tproger.ru/articles/chto-takoje-docker/
 
-
-а тут подробней про docker-compose
+Подробнее про docker-compose
 
 https://habr.com/ru/post/519500/
